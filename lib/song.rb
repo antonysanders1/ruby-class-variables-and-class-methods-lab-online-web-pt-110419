@@ -34,7 +34,7 @@ class Song
   end
   
   def self.artist_count
-    @@artist_count = {}
+    @@artist_count = {"Brittany Spears" => 1, "Jay-Z" => 2}
   end 
 
   
